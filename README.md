@@ -38,12 +38,6 @@ Population coupling is defined as the Pearson correlation between an individual 
 | `populationcoupling_trajectories.py` | i-k | Population coupling trajectories split by brain region |
 | `population_coupling_lda_visual.py` | l | 14-metric LDA projection across 8 developmental ages |
 
-### Utility
-
-| Script | Description |
-|--------|-------------|
-| `14metrics_heatmap_LDA.py` | Data export helper for ED10 (not run from this repository) |
-
 ---
 
 ## VLM Neuron Tracking Pipeline
@@ -70,3 +64,4 @@ pip install numpy pandas matplotlib scipy
 ```
 
 The VLM neuron tracking pipeline has additional dependencies listed in `vlm_neuron_tracking/requirements.txt`.
+
