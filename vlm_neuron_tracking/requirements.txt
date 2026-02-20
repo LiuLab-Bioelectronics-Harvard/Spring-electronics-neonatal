@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+spikeinterface>=0.98
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+pydantic>=2
+nest-asyncio
+tqdm
+python-dotenv
+httpx
